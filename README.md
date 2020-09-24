@@ -3,7 +3,7 @@
 Eu me chamo Karine e aqui compartilho meus projetos em desenvolvimento.
 
 ## Sou uma desenvolvedora🔮
-Atualmente busco estágio ou oportunidades como dev Jr.! 💜 Me avise caso saiba de algo adequado ao meu perfil, please! 😄
+Estagiária de desenvolvimento Front-End.
 
 ## Formação🎓
 Sou formada em Ciências Biológicas🐳 (Universidade Feevale), hoje curso 3° semestre de Análise e Desenvolvimento de Sistemas💻 (Centro Universitário Católica SC).
