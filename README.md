@@ -27,7 +27,7 @@ I love to study📚. I love to play games🎮, travel✈️, nature🌳🌊, and
 
 # STATS
 
-[![Karinemoreira's github stats](https://github-readme-stats.vercel.app/api?username=Karinemoreira&show_icons=true&theme=radical)
+![Karinemoreira's github stats](https://github-readme-stats.vercel.app/api?username=Karinemoreira&show_icons=true&theme=radical)
 </br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Karinemoreira&theme=radical)
 
