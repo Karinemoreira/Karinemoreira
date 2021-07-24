@@ -6,14 +6,13 @@ Hi! My name is Karine and here I share my projects in development.
 
 
 ## Sou uma desenvolvedora🔮 I'm a developer
-Estagiária de desenvolvimento Front-End na Avanti e Dev Front-End Sandy na Ommed.
-
-Front-End Development Intern at Avanti and Junior Front-End Developer at Ommed.
+Dev Front-End Sandy na Ommed. <br>
+Junior Front-End Developer at Ommed.
 
 ## Formação🎓 Education
-Sou formada em Ciências Biológicas🐳 (Universidade Feevale), cursando 1° semestre de Análise e Desenvolvimento de Sistemas💻 (Universidade do Vale do Itajaí - Univali).
+Sou formada em Ciências Biológicas🐳 (Universidade Feevale), cursando 4° semestre de Análise e Desenvolvimento de Sistemas💻 (Centro Universitário Católica SC).
 
-Bachelors degree in Biological Science🐳 (Universidade Feevale), currently studying analysis and systems development💻 at Univali.
+Bachelors degree in Biological Science🐳 (Universidade Feevale), currently studying analysis and systems development💻 at (Centro Universitário Católica SC).
 
 ## Estudando📘 Studying
 Além da faculdade, estudando React, Node, Vue e JS/TS.
