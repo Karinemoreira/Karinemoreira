@@ -6,7 +6,7 @@ Hi! My name is Karine and here I share my projects in development.
 
 
 ## Sou uma desenvolvedora🔮 I'm a developer
-Developer na Seal Telecom. <br>
+Desenvolvedora na Seal Telecom. <br>
 Developer at Seal Telecom.
 
 ## Formação🎓 Education
