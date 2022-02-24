@@ -6,13 +6,13 @@ Hi! My name is Karine and here I share my projects in development.
 
 
 ## Sou uma desenvolvedora🔮 I'm a developer
-Dev Front-End Sandy na Ommed. <br>
-Junior Front-End Developer at Ommed.
+Developer na Seal Telecom. <br>
+Developer at Seal Telecom.
 
 ## Formação🎓 Education
-Sou formada em Ciências Biológicas🐳 (Universidade Feevale), cursando 4° semestre de Análise e Desenvolvimento de Sistemas💻 (Centro Universitário Católica SC).
+Sou formada em Ciências Biológicas🐳 (Universidade Feevale), formanda em Análise e Desenvolvimento de Sistemas💻 (Centro Universitário Católica SC). Graduanda em Engenharia de Software pela UNIFCV. Pós-graduanda em Desenvolvimento Web Full Stack pela Faculdade Unyleya.
 
-Bachelors degree in Biological Science🐳 (Universidade Feevale), currently studying analysis and systems development💻 at (Centro Universitário Católica SC).
+Bachelors degree in Biological Science🐳 (Universidade Feevale), trainee analyst and systems development💻 at (Centro Universitário Católica SC). Currently study Software Engineering at UNIFCV. Graduate student in Full Stack Web Development at Unyleya.
 
 ## Estudando📘 Studying
 Além da faculdade, estudando React, Node, Vue e JS/TS.
