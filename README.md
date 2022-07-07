@@ -10,14 +10,14 @@ Desenvolvedora na Seal Telecom. <br>
 Developer at Seal Telecom.
 
 ## Formação🎓 Education
-Sou formada em Ciências Biológicas🐳 (Universidade Feevale), formanda em Análise e Desenvolvimento de Sistemas💻 (Centro Universitário Católica SC). Graduanda em Engenharia de Software pela UNIFCV. Pós-graduanda em Desenvolvimento Web Full Stack pela Faculdade Unyleya.
+Sou formada em Ciências Biológicas🐳 (Universidade Feevale), formanda em Análise e Desenvolvimento de Sistemas💻 (Centro Universitário Católica SC). Graduanda em Engenharia de Software pela UNIFCV. Pós-graduada em Desenvolvimento Web Full Stack pela Faculdade Unyleya.
 
-Bachelors degree in Biological Science🐳 (Universidade Feevale), trainee analyst and systems development💻 at (Centro Universitário Católica SC). Currently study Software Engineering at UNIFCV. Graduate student in Full Stack Web Development at Unyleya.
+Bachelor's degree in Biological Science🐳 (Universidade Feevale), trainee analyst and systems development💻 at (Centro Universitário Católica SC). Currently study Software Engineering at UNIFCV. Post-graduated in Full Stack Web Development at Unyleya.
 
 ## Estudando📘 Studying
-Além da faculdade, estudando React, Node, Vue e JS/TS.
+Além da faculdade, estudando Angular, Vue e JS/TS.
 
-Beyond college, I'm studying React, Node, Vue, and JS/TS.
+Beyond college, I'm studying Angular, Vue, and JS/TS.
   
  ## Paixões💘 Passions
 Amo estudar📚, amo jogar🎮, viajar✈️, amo natureza🌳🌊 e pets🐱 (gatos principalmente), amo estar com pessoas e família👪, amo cozinhar🍛 e beber🍻🍷, amo viver cada dia!🌞
