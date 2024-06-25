@@ -1,28 +1,11 @@
 
 # Hello World! 👋🌍
-Eu me chamo Karine e aqui compartilho meus projetos em desenvolvimento.                   
+Com mais de 4 anos de experiência em desenvolvimento web focado em front-end, possuo expertise em linguagens e frameworks como React, Angular, AngularJs e principalmente Vue. Além disso, possuo experiência no desenvolvimento e integração de APIs em NodeJs, Java e C#.
 
-Hi! My name is Karine and here I share my projects in development.
+Além da trajetória profissional, possuo uma sólida formação acadêmica. Sou formada em biologia, estudante de Engenharia da Computação e pós-graduada em desenvolvimento web full-stack. Ao longo de minha jornada, desenvolvi algoritmos e soluções para diversas aplicações, incluindo web, aprendizado de máquina e inteligência artificial, usando ferramentas como NodeJS, Java Spring, C#, C++, Python e Javascript. Adicionalmente, conquistei diversas certificações, incluindo um Bootcamp "Code Like a Fullstack Girl", Certificado Profissional em Fundamentos de Scrum e Certificado em Fundamentos de Infraestrutura em Nuvem da Oracle.
 
+Meu propósito é aplicar minha experiência no desenvolvimento de software para criar soluções inovadoras e impactantes, capazes de melhorar a vida das pessoas e otimizar o desempenho das empresas. Sou apaixonada por trabalhar em equipes colaborativas e diversificadas, e estou sempre em busca de novos desafios e oportunidades para crescer e contribuir.                
 
-## Sou uma desenvolvedora🔮 I'm a developer
-Desenvolvedora na Seal Telecom. <br>
-Developer at Seal Telecom.
-
-## Formação🎓 Education
-Sou formada em Ciências Biológicas🐳 (Universidade Feevale), formanda em Análise e Desenvolvimento de Sistemas💻 (Centro Universitário Católica SC). Graduanda em Engenharia de Software pela UNIFCV. Pós-graduada em Desenvolvimento Web Full Stack pela Faculdade Unyleya.
-
-Bachelor's degree in Biological Science🐳 (Universidade Feevale), trainee analyst and systems development💻 at (Centro Universitário Católica SC). Currently study Software Engineering at UNIFCV. Post-graduated in Full Stack Web Development at Unyleya.
-
-## Estudando📘 Studying
-Além da faculdade, estudando Angular, Vue e JS/TS.
-
-Beyond college, I'm studying Angular, Vue, and JS/TS.
-  
- ## Paixões💘 Passions
-Amo estudar📚, amo jogar🎮, viajar✈️, amo natureza🌳🌊 e pets🐱 (gatos principalmente), amo estar com pessoas e família👪, amo cozinhar🍛 e beber🍻🍷, amo viver cada dia!🌞
-
-I love to study📚. I love to play games🎮, travel✈️, nature🌳🌊, and pets🐱(cats mostly). I love being with people and family👪. I love to cook🍛 and drink🍻🍷. I love to live every day!🌞
 
 # STATS
 
